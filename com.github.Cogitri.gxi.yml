@@ -22,7 +22,5 @@ modules:
     buildsystem: meson
     sources:
       - type: archive
-        url: https://github.com/Cogitri/gxi/releases/download/v0.5.5/gxi-0.5.5.tar.xz
-        sha256: 1ba641b5638683c375964ffbf4a0f4e7991826be29efc025556001a330510702
-      - type: patch
-        path: no-lto-opt.patch
+        url: https://github.com/Cogitri/gxi/releases/download/v0.6.2/gxi-0.6.2.tar.xz
+        sha256: 28437dd81aed863f96666f8f4f608a1c76b1f82db103518fe22f08fca7973e87
